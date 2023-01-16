@@ -1,0 +1,15 @@
+/Users/ruslangolik/Desktop/Start Coding/bin/Debug/net6.0/Start Coding
+/Users/ruslangolik/Desktop/Start Coding/bin/Debug/net6.0/Start Coding.deps.json
+/Users/ruslangolik/Desktop/Start Coding/bin/Debug/net6.0/Start Coding.runtimeconfig.json
+/Users/ruslangolik/Desktop/Start Coding/bin/Debug/net6.0/Start Coding.dll
+/Users/ruslangolik/Desktop/Start Coding/bin/Debug/net6.0/Start Coding.pdb
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.csproj.AssemblyReference.cache
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.AssemblyInfoInputs.cache
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.AssemblyInfo.cs
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.csproj.CoreCompileInputs.cache
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.dll
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/refint/Start Coding.dll
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.pdb
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/Start Coding.genruntimeconfig.cache
+/Users/ruslangolik/Desktop/Start Coding/obj/Debug/net6.0/ref/Start Coding.dll
